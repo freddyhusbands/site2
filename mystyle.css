@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+    margin-left: 20px;
+    font-family: "Helvetica Neue";
+    margin-block-end: 0px;
+    text-align: center;
+    letter-spacing: 20px;
+}
+
+p {
+    color: red;
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: x-small;
+}
+
+#paragraph1 {
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid blue;
+    color: white;
+    padding: 10px 10px;
+    font-family: "Helvetica Neue";
+    text-align: center;
+}
+
+#paragraph2 {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: 1px solid lawngreen;
+    color: orange;
+    padding: 10px 10px;
+    font-family: "Helvetica Neue";
+    text-align: center;
+
+}
